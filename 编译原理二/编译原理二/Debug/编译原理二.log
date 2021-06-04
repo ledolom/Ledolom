@@ -1,0 +1,3 @@
+﻿  源.c
+C:\Users\HP\source\repos\编译原理二\编译原理二\源.c(737,20): warning C4047: “=”:“char”与“void *”的间接级别不同
+  编译原理二.vcxproj -> C:\Users\HP\source\repos\编译原理二\Debug\编译原理二.exe
